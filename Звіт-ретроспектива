@@ -1,0 +1,15 @@
+# lab3-OOP
+1) У цій лабораторній роботі була реалізована программа для обчислення дробів, використовуючи дії (+, -, *, /).
+2) Була використана https://www.webtoolkit.eu/wt.
+3) Документація була подана у легкочитаючому форматі, було не складно працювати.
+4) В моїй лабораторній роботі є класс Fraction в якому описані всі дії над дробами.
+5) Були використані:
+#include <Wt/WJavaScript.h>
+#include <Wt/WObject.h>
+#include <Wt/WString.h>
+#include <Wt/WApplication.h>
+#include <Wt/WBreak.h>
+#include <Wt/WContainerWidget.h>
+#include <Wt/WLineEdit.h>
+#include <Wt/WPushButton.h>
+#include <Wt/WText.h>
